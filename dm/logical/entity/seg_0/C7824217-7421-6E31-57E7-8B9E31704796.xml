@@ -1,0 +1,17 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="C7824217-7421-6E31-57E7-8B9E31704796" name="Entity_1">
+<createdBy>logonrmlocal</createdBy>
+<createdTime>2024-05-07 00:46:41 UTC</createdTime>
+<ownerDesignName>dm</ownerDesignName>
+<engineerTo>
+<item key="B0A9FE8F-D5E1-22BF-4CEA-6CB6AD49FA0B" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+</Entity>
